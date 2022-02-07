@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dmitry-sidorov/gulp-template/issues"
   },
-  "homepage": "https://github.com/dmitry-sidorov/gulp-template#readme"
+  "homepage": "https://github.com/dmitry-sidorov/gulp-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  }
 }
